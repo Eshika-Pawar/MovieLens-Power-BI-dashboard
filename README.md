@@ -1,1 +1,2 @@
 # MovieLens-Power-BI-dashboard
+Built a 3-page interactive Power BI report analysing 4,000 classic films and 6,000 viewers for a marketing campaign. I designed a star-schema data model, cleaned and transformed the data in Power Query, and added synced slicers and page navigation. Key insight: highly rated niche genres like Film-Noir and Mystery are under-represented in the catalogue, an easy "hidden gems" campaign angle.
